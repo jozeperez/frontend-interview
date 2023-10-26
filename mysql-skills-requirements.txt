@@ -1,0 +1,45 @@
+1. Consider the following data set:
+
+Table name: customers
+
+customer_id | name        | email
+----------------------------------------------
+1           | John Doe    | john@example.com
+2           | Jane Smith  | jane@example.com
+3           | Alex Brown  | alex@example.com
+4           | Sarah White | sarah@example.com
+
+
+
+
+Table name: products
+
+product_id | name     | price
+------------------------------
+101        | Widget A | 10.99
+102        | Widget B | 15.49
+103        | Gadget X | 25.99
+104        | Gizmo Y  | 8.75
+
+
+
+
+Table name: orders
+
+order_id | customer_id | product_id | order_date
+--------------------------------------------------
+501      | 1           | 101        | 2023-08-05
+502      | 2           | 103        | 2023-08-06
+503      | 1           | 103        | 2023-08-07
+504      | 3           | 104        | 2023-08-08
+
+
+2. Answer the following questions:
+
+    1. Retrieve all columns from the "Customers" table.
+
+    2. List the names of products from the "Products" table in alphabetical order.
+
+    3. Count the number of orders in the "Orders" table.
+
+    4. Find the average price of products in the "Products" table.
