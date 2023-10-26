@@ -34,3 +34,9 @@ Bonus:
 3. When a new tasks is added, make sure to remove/delete the new elements injected in bonus step #2
 
 4. If all tasks are deleted, make sure to remove/delete the new elements injected in bonus step #2
+
+
+====================================
+== REMEMBER TO: ====================
+==== RELAX, HAVE FUN & GOOD LUCK! ==
+====================================
