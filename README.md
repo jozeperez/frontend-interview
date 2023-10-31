@@ -1,8 +1,9 @@
 # frontend interview excercise
 
-There are going to be two exercises in this interview.
+There are going to be three exercises in this interview.
 1. CSS skills exercise
 2. Javascript skills exercise
+3. MySQL skills exercise
 
 Instructions for exercise #1, CSS skills exercise
 1. Download this repo.
@@ -16,3 +17,7 @@ Instructions for exercise #2, JS skills exercise
 2. Create a new branch based off of "js_skills" and name it "js_skills_{your last name}".
 3. Open `js-skills-requirements.txt`.
 4. When ever you are done, commit your work and push upstream.
+
+Instructions for exercise #3, SQL skills exercise
+1. Checkout branch "mysql_skills".
+2. Open `mysql-skills-requirements.txt`.
